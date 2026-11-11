@@ -3,7 +3,7 @@
 A tiny macOS menu bar app for arranging your displays, switching their resolution and adjusting
 brightness: the parts of System Settings › Displays you actually use, one click away.
 
-<img src="docs/screenshot.png" alt="DisplayBar menu" width="653">
+<img src="docs/menu.png" alt="DisplayBar menu" width="653">
 
 - **Drag to arrange:** a miniature of your displays, like the Arrange view in System Settings.
   Drag a display and it snaps flush against its neighbours (with top/centre/bottom alignment);
